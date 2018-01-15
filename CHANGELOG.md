@@ -1,7 +1,9 @@
-# Change Log
-All notable changes to the "slang-code-highlighter" extension will be documented in this file.
+# CHANGELOG
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.1
 
-## [Unreleased]
 - Initial release
+
+## 0.0.2
+
+- Add few keywords support
