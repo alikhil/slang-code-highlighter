@@ -22,5 +22,9 @@
             "scopeName": "source.slang",
             "path": "./syntaxes/s.tmLanguage"
         }]
+    },
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/alikhil/slang-code-highlighter.git"
     }
 }
