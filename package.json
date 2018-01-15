@@ -1,0 +1,26 @@
+{
+    "name": "slang-code-highlighter",
+    "displayName": "SLang",
+    "description": "SLang code highlighter.",
+    "version": "0.0.1",
+    "publisher": "alikhil",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "slang",
+            "aliases": ["SLang", "slang"],
+            "extensions": [".slang"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "slang",
+            "scopeName": "source.slang",
+            "path": "./syntaxes/s.tmLanguage"
+        }]
+    }
+}
