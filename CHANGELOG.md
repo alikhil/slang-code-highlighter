@@ -6,4 +6,8 @@
 
 ## 0.0.2
 
-- Add few keywords support
+- Add few more keywords support
+
+## 0.0.3
+
+- Add few more keywords support

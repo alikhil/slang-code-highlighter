@@ -41,7 +41,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(or|and|xor|in|not|as|is|use|alias|old|new|div|mod)\b</string>
+			<string>\b(or|and|xor|in|not|implies|as|is|use|alias|old|new|div|mod)\b</string>
 			<key>name</key>
 			<string>keyword.operator</string>
 		</dict>

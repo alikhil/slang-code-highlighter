@@ -2,7 +2,7 @@
     "name": "slang-code-highlighter",
     "displayName": "SLang",
     "description": "SLang code highlighter.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "alikhil",
     "engines": {
         "vscode": "^1.19.0"
