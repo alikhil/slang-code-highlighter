@@ -1,6 +1,6 @@
 # SLang code highlighter
 
-![Marketplace](https://vsmarketplacebadge.apphb.com/version/alikhil.slang-code-highlighter.svg) ![Installs](https://vsmarketplacebadge.apphb.com/installs-short/alikhil.slang-code-highlighter.svg)
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/alikhil.slang-code-highlighter.svg)](https://marketplace.visualstudio.com/items?itemName=alikhil.slang-code-highlighter#overview) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/alikhil.slang-code-highlighter.svg)](https://marketplace.visualstudio.com/items?itemName=alikhil.slang-code-highlighter#overview)
 
 ![VsCode Dark Theme](images/vscode-dark.png)
 ![Newton Rainglow Theme](images/newton-rainglow.png)
