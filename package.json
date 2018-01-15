@@ -2,7 +2,7 @@
     "name": "slang-code-highlighter",
     "displayName": "SLang",
     "description": "SLang code highlighter.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "alikhil",
     "engines": {
         "vscode": "^1.19.0"
@@ -11,17 +11,26 @@
         "Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "slang",
-            "aliases": ["SLang", "slang"],
-            "extensions": [".slang"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "slang",
-            "scopeName": "source.slang",
-            "path": "./syntaxes/s.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "slang",
+                "aliases": [
+                    "SLang",
+                    "slang"
+                ],
+                "extensions": [
+                    ".slang"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "slang",
+                "scopeName": "source.slang",
+                "path": "./syntaxes/s.tmLanguage"
+            }
+        ]
     },
     "repository": {
         "type": "GitHub",
