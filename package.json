@@ -2,8 +2,9 @@
     "name": "slang-code-highlighter",
     "displayName": "SLang",
     "description": "SLang code highlighter.",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "publisher": "alikhil",
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.19.0"
     },

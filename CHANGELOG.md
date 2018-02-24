@@ -11,3 +11,7 @@
 ## 0.0.3
 
 - Add few more keywords support
+
+## 0.1.0
+
+- Add logo
