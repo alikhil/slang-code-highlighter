@@ -1,6 +1,6 @@
 # SLang code highlighter
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/alikhil.slang-code-highlighter.svg)](https://marketplace.visualstudio.com/items?itemName=alikhil.slang-code-highlighter#overview) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/alikhil.slang-code-highlighter.svg)](https://marketplace.visualstudio.com/items?itemName=alikhil.slang-code-highlighter#overview)
+[View on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alikhil.slang-code-highlighter)
 
 This VS Code extension provides syntax highlighting for **SLang**, the experimental general-purpose programming language described by Alexey Kanatov and Eugene Zouev. It is distinct from the Shader Slang language. The extension recognizes `.slang` files and registers the VS Code language ID `slang-academic`.
 
