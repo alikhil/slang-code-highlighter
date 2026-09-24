@@ -14,7 +14,7 @@
     "contributes": {
         "languages": [
             {
-                "id": "slang",
+                "id": "slang-academic",
                 "aliases": [
                     "SLang",
                     "slang"
@@ -27,7 +27,7 @@
         ],
         "grammars": [
             {
-                "language": "slang",
+                "language": "slang-academic",
                 "scopeName": "source.slang",
                 "path": "./syntaxes/s.tmLanguage"
             }
