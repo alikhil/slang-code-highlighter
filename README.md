@@ -36,4 +36,9 @@ Initial release of extension.
 
 - Add logo
 
+## 0.2.0
+
+- Change the VS Code language ID from `slang` to `slang-academic` to distinguish this language from Shader Slang. Update any `files.associations` entries or `[slang]` settings that target this extension.
+- Document SLang and its research history.
+
 -----------------------------------------------------------------------------------------------------------
